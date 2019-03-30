@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d13bd10481e6542b77244046402766, type: 3}
+  m_Name: Andy
+  m_EditorClassIdentifier: 
+  heroName: Default Name
+  bio: 
+  health: 100
+  healthRegen: 0
+  mana: 0
+  manaRegen: 0
+  attackDamage: 0
+  attackSpeed: 0
+  magicDamge: 0
+  defense: 0
+  resistance: 0
+  movementSpeed: 4
+  jumpForce: 8
